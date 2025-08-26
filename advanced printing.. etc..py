@@ -21,5 +21,3 @@ print("hobby:" + " " + hobby)
 
 print(f"{name} is {age} years old and wants to be a {dream_job}.")
 print(f"They love eating {favorite_food} and enjoy {hobby}.")
-# TODO: using the f-string format in print so that the output is as follows.  (Value in Name) is (Value in age) years old and want to be a (Value in dream_job).
-# TODO: using the f-string format in print so that the output is as follows.  They love eating (Value in favorite_food) and enjoy (Value in hobby).
