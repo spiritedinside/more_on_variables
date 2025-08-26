@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63da820a-0ec1-41ae-acae-4d42fc425863" name="Changes" comment="finish 8/25">
-      <change afterPath="$PROJECT_DIR$/advanced printing.. etc..py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="63da820a-0ec1-41ae-acae-4d42fc425863" name="Changes" comment="finish 8/26">
+      <change beforePath="$PROJECT_DIR$/advanced printing.. etc..py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced printing.. etc..py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "spiritedinside"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;spiritedinside&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/spiritedinside/more_on_variables.git",
-    "accountId": "df1c71af-832a-4fba-9287-13b1d0996974"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/spiritedinside/more_on_variables.git&quot;,
+    &quot;accountId&quot;: &quot;df1c71af-832a-4fba-9287-13b1d0996974&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -46,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.advanced printing.. etc..executor": "Run",
     "Python.more on variables.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -76,11 +76,28 @@
       <option name="project" value="LOCAL" />
       <updated>1756122885121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finish 8/26">
+      <option name="closed" value="true" />
+      <created>1756213630810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756213630810</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish 8/26">
+      <option name="closed" value="true" />
+      <created>1756213697432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756213697432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finish 8/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish 8/25" />
+    <MESSAGE value="finish 8/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish 8/26" />
   </component>
 </project>

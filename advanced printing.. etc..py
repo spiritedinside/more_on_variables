@@ -1,10 +1,10 @@
 # Student bio card
 
-name = "Ginny"
-age = 18
-favorite_food = "steak"
-dream_job = "video game designer"
-hobby = "percussion and playing video games"
+name = "Ginny" # nickname.
+age = 18 # I'm old.
+favorite_food = "steak" # Sushi is also good.
+dream_job = "video game designer" # doing this within the Comp Sci field and also maintaining a math degree and coming back to WCHS to teach for percussion.
+hobby = "percussion and playing video games" # can't choose two!
 
 # Print using commas
 
